@@ -31,5 +31,5 @@ building AI-powered features into projects, and critically evaluating AI output 
 ---
 
 ## 📫 Connect
-- 💼 [LinkedIn](www.linkedin.com/in/wong-huai-wen-5447701b3)
+- 💼 [LinkedIn](https://www.linkedin.com/in/wong-huai-wen-5447701b3)
 - 🌐 [PawSignal](https://pawsignal.com.au)
