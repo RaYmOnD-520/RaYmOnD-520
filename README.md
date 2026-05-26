@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Raymond 👋
+🎓 CS Grad | 🛒 E-Commerce Builder | 📍 Melbourne, Australia
 
-<!--
-**RaYmOnD-520/RaYmOnD-520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tools that solve real business problems — from full-stack web apps to automated e-commerce systems.
 
-Here are some ideas to get you started:
+Currently working on: **[PawSignal](https://pawsignal.com.au)** — a pet products e-commerce brand built from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+**Languages:** Python | JavaScript | PHP | C# | HTML | CSS | SQL
+
+**Frameworks & Libraries:** React | Flask
+
+**Cloud & Tools:** AWS | Cisco | Git | GitHub
+
+---
+
+## 🤖 AI-Augmented Development
+I leverage AI tools (Claude Code, Claude API, Claude Design) as part of my development workflow —
+not as a replacement for engineering knowledge, but as a force multiplier.
+
+This includes: prompting AI to accelerate scaffolding, debugging with AI assistance,
+building AI-powered features into projects, and critically evaluating AI output before shipping.
+
+---
+
+## 🚀 Featured Projects
+> Coming soon
+
+---
+
+## 📫 Connect
+- 💼 [LinkedIn](www.linkedin.com/in/wong-huai-wen-5447701b3)
+- 🌐 [PawSignal](https://pawsignal.com.au)
