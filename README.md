@@ -1,35 +1,50 @@
 # Hi, I'm Raymond 👋
-🎓 CS Grad | 🛒 E-Commerce Builder | 📍 Melbourne, Australia
+🎓 CS Grad (Cybersecurity) | 🚀 Builder | 📍 Melbourne, Australia
 
-I build tools that solve real business problems — from full-stack web apps to automated e-commerce systems.
+I build full-stack applications across AI, cybersecurity, and data engineering — and I ship them.
 
-Currently working on: **[PawSignal](https://pawsignal.com.au)** — a pet products e-commerce brand built from scratch.
+Currently working on: **RAG AI Assistant v2.0** — a multi-document knowledge base with contextual AI suggestions.
 
 ---
 
 ## 🛠 Tech Stack
-**Languages:** Python | JavaScript | PHP | C# | HTML | CSS | SQL
 
-**Frameworks & Libraries:** React | Flask
-
-**Cloud & Tools:** AWS | Cisco | Git | GitHub
+**Languages:** Python | JavaScript | HTML | CSS | SQL  
+**Frameworks:** React | FastAPI | Vite  
+**AI & Data:** Claude API | ChromaDB | sentence-transformers | pandas  
+**Tools:** Git | GitHub | Tailwind CSS | PyMuPDF  
+**Deployment:** GitHub Pages  
 
 ---
 
 ## 🤖 AI-Augmented Development
-I leverage AI tools (Claude Code, Claude API, Claude Design) as part of my development workflow —
-not as a replacement for engineering knowledge, but as a force multiplier.
 
-This includes: prompting AI to accelerate scaffolding, debugging with AI assistance,
-building AI-powered features into projects, and critically evaluating AI output before shipping.
+I use Claude Code, Claude API, and Claude Design as force multipliers — not replacements for engineering knowledge.  
+This means: AI-accelerated scaffolding, AI-powered features built into projects, and always critically evaluating output before shipping.
 
 ---
 
-## 🚀 Featured Projects
-> Coming soon
+## 🚀 Projects
+
+### 🧠 [RAG AI Assistant v2.0](https://github.com/RaYmOnD-520/rag-ai-assistant)
+Multi-document RAG chatbot — upload multiple PDFs, get AI-generated suggestions, scoped answers, and session chat history.  
+`Python` `FastAPI` `ChromaDB` `React` `Claude API`
+
+### 📊 [DataForge Dashboard](https://raymond-520.github.io/dataforge-dashboard)
+Full-stack data science dashboard with CSV upload, custom SVG charts, and automated data quality reports.  
+`Python` `FastAPI` `pandas` `React` `Vite` `Tailwind CSS v4`
+
+### 🔐 [Security Log Analysis Dashboard](https://github.com/RaYmOnD-520/security-log-dashboard)
+SOC-style threat detection dashboard with 5 threat categories, severity badges, and Claude AI threat summaries.  
+`Python` `FastAPI` `React` `Claude API` `Recharts`
+
+### 🌐 [Personal Portfolio Website](https://raymond-520.github.io/portfolio-website/)
+Terminal/CRT aesthetic portfolio — built with pure HTML, CSS, and JS. Designed with Claude Design.  
+`HTML` `CSS` `JavaScript`
 
 ---
 
 ## 📫 Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/wong-huai-wen-5447701b3)
-- 🌐 [PawSignal](https://pawsignal.com.au)
+- 🌐 [Portfolio](https://raymond-520.github.io/portfolio-website/)
+- 📧 wonghuaiwen@gmail.com
